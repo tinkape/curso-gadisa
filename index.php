@@ -14,4 +14,6 @@ $client = new SoapClient("http://soap-service.server/wsdl.xml", $options);
 print($client->saludarCliente());
 print($client->saludarUsuario());
 
+//Modificado desde editor
+
 ?>
